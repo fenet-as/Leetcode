@@ -46,17 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/fenet-as/Leetcode/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/fenet-as/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/fenet-as/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/fenet-as/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/fenet-as/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/fenet-as/Leetcode/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/fenet-as/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/fenet-as/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/fenet-as/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/fenet-as/Leetcode/tree/master/0112-path-sum) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/fenet-as/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/fenet-as/Leetcode/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/fenet-as/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/fenet-as/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/fenet-as/Leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
 | ------- |
