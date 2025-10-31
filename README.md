@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fenet-as/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/fenet-as/Leetcode/tree/master/0075-sort-colors) |
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
+| [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/fenet-as/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 ## Tree
 |  |
