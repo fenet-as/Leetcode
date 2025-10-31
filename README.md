@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/fenet-as/Leetcode/tree/master/0155-min-stack) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/fenet-as/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
