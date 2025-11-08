@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/fenet-as/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fenet-as/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/fenet-as/Leetcode/tree/master/0075-sort-colors) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/fenet-as/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fenet-as/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
 ## String
