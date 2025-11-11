@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/fenet-as/Leetcode/tree/master/0009-palindrome-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/fenet-as/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/fenet-as/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Prefix Sum
