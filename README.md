@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+| [1580-shuffle-the-array](https://github.com/fenet-as/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/fenet-as/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fenet-as/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
