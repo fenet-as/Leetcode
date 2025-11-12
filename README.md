@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fenet-as/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/fenet-as/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2058-concatenation-of-array](https://github.com/fenet-as/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fenet-as/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/fenet-as/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/fenet-as/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
+| [2058-concatenation-of-array](https://github.com/fenet-as/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/fenet-as/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Counting Sort
 |  |
