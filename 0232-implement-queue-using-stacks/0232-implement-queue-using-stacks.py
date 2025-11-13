@@ -1,38 +1,21 @@
-'''
-[1,2,3,4,5]
-[5,2,3,4,1]
-'''
 class MyQueue:
 
     def __init__(self):
-        self.st = []
-
-        
+        self.input = []
+        self.output = []
 
     def push(self, x: int) -> None:
-        self.st.append(x)
+        self.input.append(x)
 
     def pop(self) -> int:
-        self.st.reverse()
-        e = self.st.pop()
-        self.st.reverse()
-        return e
-        
+        self.peek()  # Ensure output stack has the current front
+        return self.output.pop()
 
     def peek(self) -> int:
-        return self.st[0]
-        
+        if not self.output:  # Transfer elements if output stack is empty
+            while self.input:
+                self.output.append(self.input.pop())
+        return self.output[-1]
 
     def empty(self) -> bool:
-        if len(self.st) > 0:
-            return False
-        return True
-        
-
-
-# Your MyQueue object will be instantiated and called as such:
-# obj = MyQueue()
-# obj.push(x)
-# param_2 = obj.pop()
-# param_3 = obj.peek()
-# param_4 = obj.empty()
+        return not self.input and not self.output
