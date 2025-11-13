@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/fenet-as/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/fenet-as/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fenet-as/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/fenet-as/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/fenet-as/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fenet-as/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/fenet-as/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
 | [0874-backspace-string-compare](https://github.com/fenet-as/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0886-score-of-parentheses) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/fenet-as/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
 ## Design
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/fenet-as/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/fenet-as/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/fenet-as/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
