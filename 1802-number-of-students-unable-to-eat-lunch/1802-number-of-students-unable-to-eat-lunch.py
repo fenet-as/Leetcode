@@ -11,17 +11,24 @@ class Solution:
         sw.reverse()
         std = deque(students)
 
+        ct1 = students.count(1)
+        ct0 = students.count(0)
         
         while std:
             e = std[0]
             if e  == sw[-1]:
                 sw.pop()
-                std.popleft()
+                pp = std.popleft()
+                if pp == 1:
+                    ct1 -= 1
+                else:
+                    ct0 -= 1
+                
             else:
                 pe = std.popleft()
                 std.append(pe)
             
-            if len(set(std)) == 1 and len(sw) > 0:
+            if (ct1 == 0 or ct0 == 0) and len(sw) > 0:
                 if std[0] != sw[-1]:
                     return len(std) 
                  
