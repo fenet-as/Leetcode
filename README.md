@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/fenet-as/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/fenet-as/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fenet-as/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/fenet-as/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/fenet-as/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/fenet-as/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fenet-as/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/fenet-as/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/fenet-as/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/fenet-as/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/fenet-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/fenet-as/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/fenet-as/Leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/fenet-as/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/fenet-as/Leetcode/tree/master/0268-missing-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/fenet-as/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/fenet-as/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
