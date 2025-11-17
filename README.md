@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/fenet-as/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/fenet-as/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/fenet-as/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/fenet-as/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/fenet-as/Leetcode/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [1137-height-checker](https://github.com/fenet-as/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/fenet-as/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fenet-as/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/fenet-as/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/fenet-as/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
 | ------- |
