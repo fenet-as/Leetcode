@@ -1,12 +1,11 @@
-from collections import Counter
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        res = []
-
-        hm = Counter(nums1)
-
-        st = set(nums2)
-        for e in st:
-            if e in hm:
-                res.append(e)
-        return res
+        st1 = set(nums2) # O(n2)
+        
+        res = set() #O(k)
+        for e in nums1: #O(n1)
+            if e in st1:
+                res.add(e)
+        
+        r = list(res) #O(k)
+        return r
