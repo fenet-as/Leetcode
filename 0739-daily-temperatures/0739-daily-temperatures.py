@@ -1,15 +1,18 @@
 class Solution:
-    def dailyTemperatures(self, t: List[int]) -> List[int]:
+    def dailyTemperatures(self, temp: List[int]) -> List[int]:
         
-
         st = []
-        res = [0] * len(t)
-        for i in range(len(t)-1,-1,-1):
-            while st and t[i] >= t[st[-1]]:
+        res = [0]*len(temp)
+        for i in range(len(temp)-1,-1,-1):
+            while st and temp[st[-1]] <= temp[i]:
                 st.pop()
             if st:
                 res[i] = st[-1] - i
             st.append(i)
         return res
+    
+    
 
+        
 
+            
