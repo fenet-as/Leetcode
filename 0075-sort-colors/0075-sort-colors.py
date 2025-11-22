@@ -3,15 +3,16 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        
-        arr = [0]*3
+        a = [0]*3
 
         for e in nums:
-            arr[e]+= 1
+            a[e] += 1
+        
         t = 0
-        for i,v in enumerate(arr):
-            while v > 0:
+        for i in range(3):
+            while a[i] > 0:
                 nums[t] = i
+                a[i] -= 1
                 t += 1
-                v -= 1
-        return nums
+        
+
