@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/fenet-as/Leetcode/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/fenet-as/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
+| [0856-score-of-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/fenet-as/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/fenet-as/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/fenet-as/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/fenet-as/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/fenet-as/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0886-score-of-parentheses) |
