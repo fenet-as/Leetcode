@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/fenet-as/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/fenet-as/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1208-get-equal-substrings-within-budget](https://github.com/fenet-as/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fenet-as/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fenet-as/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fenet-as/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/fenet-as/Leetcode/tree/master/0456-132-pattern) |
 | [0783-search-in-a-binary-search-tree](https://github.com/fenet-as/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1208-get-equal-substrings-within-budget](https://github.com/fenet-as/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1646-kth-missing-positive-number](https://github.com/fenet-as/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fenet-as/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/fenet-as/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/fenet-as/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/fenet-as/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1208-get-equal-substrings-within-budget](https://github.com/fenet-as/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## String Matching
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/fenet-as/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/fenet-as/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/fenet-as/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fenet-as/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fenet-as/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
