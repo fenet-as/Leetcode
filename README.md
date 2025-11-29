@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/fenet-as/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1137-height-checker](https://github.com/fenet-as/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/fenet-as/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/fenet-as/Leetcode/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/fenet-as/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fenet-as/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/fenet-as/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/fenet-as/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## String Matching
 |  |
 | ------- |
