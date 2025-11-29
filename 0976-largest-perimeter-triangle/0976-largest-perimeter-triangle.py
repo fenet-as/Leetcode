@@ -4,14 +4,12 @@ class Solution:
 
         nums.sort()
         j = len(nums)-1
-        mx = 0
         while j-2 >= 0:
             s1 = nums[j]
             s2 = nums[j-1]
             s3 = nums[j-2]
 
-            if s1 < (s3 + s2) and s2 < (s1+s3) and s3 < (s1+ s2):
-                mx = max(mx,s1+s2+s3)
-
+            if s1 < (s2+ s3):
+                return s1+s2+s3
             j -= 1
-        return mx
+        return 0
