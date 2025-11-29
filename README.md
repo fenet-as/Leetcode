@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/fenet-as/Leetcode/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/fenet-as/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/fenet-as/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/fenet-as/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/fenet-as/Leetcode/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/fenet-as/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/fenet-as/Leetcode/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/fenet-as/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/fenet-as/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/fenet-as/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/fenet-as/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
 | [0856-score-of-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/fenet-as/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fenet-as/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/fenet-as/Leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
