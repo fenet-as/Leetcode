@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/fenet-as/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/fenet-as/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/fenet-as/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/fenet-as/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
