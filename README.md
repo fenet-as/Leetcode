@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fenet-as/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/fenet-as/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/fenet-as/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/fenet-as/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/fenet-as/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/fenet-as/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fenet-as/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/fenet-as/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fenet-as/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/fenet-as/Leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/fenet-as/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/fenet-as/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fenet-as/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/fenet-as/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/fenet-as/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/fenet-as/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fenet-as/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fenet-as/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/fenet-as/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/fenet-as/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/fenet-as/Leetcode/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/fenet-as/Leetcode/tree/master/0344-reverse-string) |
