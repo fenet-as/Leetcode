@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/fenet-as/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/fenet-as/Leetcode/tree/master/0645-set-mismatch) |
+| [0735-asteroid-collision](https://github.com/fenet-as/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/fenet-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/fenet-as/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/fenet-as/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/fenet-as/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/fenet-as/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/fenet-as/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/fenet-as/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/fenet-as/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/fenet-as/Leetcode/tree/master/0946-validate-stack-sequences) |
