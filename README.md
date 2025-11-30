@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/fenet-as/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/fenet-as/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/fenet-as/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/fenet-as/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/fenet-as/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/fenet-as/Leetcode/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/fenet-as/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/fenet-as/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/fenet-as/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/fenet-as/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/fenet-as/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Prefix Sum
