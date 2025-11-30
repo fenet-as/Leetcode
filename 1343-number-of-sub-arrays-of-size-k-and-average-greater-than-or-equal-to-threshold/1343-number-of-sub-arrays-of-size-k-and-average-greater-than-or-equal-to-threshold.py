@@ -15,3 +15,7 @@ class Solution:
             if (cs/k) >= threshold:
                 ct += 1
         return ct
+
+
+
+
