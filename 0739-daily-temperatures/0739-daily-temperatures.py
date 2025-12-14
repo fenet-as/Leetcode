@@ -1,18 +1,52 @@
 class Solution:
     def dailyTemperatures(self, temp: List[int]) -> List[int]:
-        
-        st = []
-        res = [0]*len(temp)
-        for i in range(len(temp)-1,-1,-1):
-            while st and temp[st[-1]] <= temp[i]:
-                st.pop()
-            if st:
-                res[i] = st[-1] - i
-            st.append(i)
-        return res
-    
-    
+        '''
+        st =[]
 
-        
+        na = []
+        for i in range(len(temp)):
+            na.append((temp[i],i))
 
+        for i in range(len(na)-1,-1,-1):
+            ea = na[i]
+            e = ea[0]
             
+
+            while st and st[-1][0] < e:
+                st.pop()
+
+            if st:
+                ind = st[-1][1]
+                res[i] = ind - ea[1]
+            else:
+                res[i] = 0
+
+            st.append(ea)
+        return res
+        '''
+        st =[]
+        res = [0]*len(temp)
+
+        na = []
+        for i in range(len(temp)):
+            na.append((temp[i],i))
+
+        for i in range(len(na)-1,-1,-1):
+            ea = na[i]
+            e = ea[0]
+            
+
+            while st and st[-1][0] <= e:
+                st.pop()
+
+            if st:
+                ind = st[-1][1]
+                res[i] = ind - ea[1]
+
+            else:
+                res[i] = 0
+            
+
+                
+            st.append(ea)
+        return res
