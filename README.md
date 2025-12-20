@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/fenet-as/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/fenet-as/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/fenet-as/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/fenet-as/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/fenet-as/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/fenet-as/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/fenet-as/Leetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/fenet-as/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/fenet-as/Leetcode/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/fenet-as/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1208-get-equal-substrings-within-budget](https://github.com/fenet-as/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1646-kth-missing-positive-number](https://github.com/fenet-as/Leetcode/tree/master/1646-kth-missing-positive-number) |
