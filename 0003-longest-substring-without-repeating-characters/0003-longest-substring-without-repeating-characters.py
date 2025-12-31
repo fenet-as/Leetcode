@@ -1,24 +1,15 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        '''
-        da -
-        shrink whne there is reap char
-        else expand and track the max size
-
-        w = set
-        loop through str
-        when e not in w add it to w
-        when e in win, shrink untill e is not in the set
-
-        '''
-
-        w = set()
+        seen = set()
         mx = 0
-        i = 0
-        for j in range(len(s)):
-            while s[j] in w:
-                w.remove(s[i])
-                i += 1
-            w.add(s[j])
-            mx = max(mx,j-i+1)
+        j = 0
+        for i in range(len(s)):
+            while s[i] in seen:
+                seen.remove(s[j])
+                j += 1
+            seen.add(s[i])
+            mx = max(mx,i-j+1)
+
+
+        
         return mx
