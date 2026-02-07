@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
+| [2671-frequency-tracker](https://github.com/fenet-as/Leetcode/tree/master/2671-frequency-tracker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/fenet-as/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/fenet-as/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/fenet-as/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2671-frequency-tracker](https://github.com/fenet-as/Leetcode/tree/master/2671-frequency-tracker) |
 ## Dynamic Programming
 |  |
 | ------- |
