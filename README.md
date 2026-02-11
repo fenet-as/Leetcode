@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
 | [2671-frequency-tracker](https://github.com/fenet-as/Leetcode/tree/master/2671-frequency-tracker) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-as/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/fenet-as/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/fenet-as/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-as/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3447-clear-digits](https://github.com/fenet-as/Leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fenet-as/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-as/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Design
 |  |
 | ------- |
