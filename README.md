@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fenet-as/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/fenet-as/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
 | [2671-frequency-tracker](https://github.com/fenet-as/Leetcode/tree/master/2671-frequency-tracker) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/fenet-as/Leetcode/tree/master/1217-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/fenet-as/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/fenet-as/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/fenet-as/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/fenet-as/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/fenet-as/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/fenet-as/Leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fenet-as/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1657-determine-if-two-strings-are-close](https://github.com/fenet-as/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/fenet-as/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fenet-as/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/fenet-as/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/fenet-as/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/fenet-as/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-as/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Design
 |  |
