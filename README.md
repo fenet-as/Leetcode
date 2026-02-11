@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/fenet-as/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/fenet-as/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
+| [3527-find-the-most-common-response](https://github.com/fenet-as/Leetcode/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
 | [2671-frequency-tracker](https://github.com/fenet-as/Leetcode/tree/master/2671-frequency-tracker) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-as/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/fenet-as/Leetcode/tree/master/3527-find-the-most-common-response) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/fenet-as/Leetcode/tree/master/2502-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-as/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3447-clear-digits](https://github.com/fenet-as/Leetcode/tree/master/3447-clear-digits) |
+| [3527-find-the-most-common-response](https://github.com/fenet-as/Leetcode/tree/master/3527-find-the-most-common-response) |
 ## Stack
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fenet-as/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/fenet-as/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/fenet-as/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/fenet-as/Leetcode/tree/master/3527-find-the-most-common-response) |
 ## Design
 |  |
 | ------- |
