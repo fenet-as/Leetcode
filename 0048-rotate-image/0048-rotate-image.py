@@ -2,30 +2,30 @@ class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:
         """
         Do not return anything, modify matrix in-place instead.
-        first transpose 
-        the reverse each row
-
         """
 
-
-            
-
-        n = len(matrix)
-        cm = [[0]*n for _ in range(n)]
-
-        for i in range(n):
-            for j in range(n):
-                cm[j][i] = matrix[i][j]
-
-        for r in range(n):
+        def rev(arr):
             i = 0
-            j = n-1
+            j = len(arr)-1
+
             while i < j:
-                cm[r][i], cm[r][j] = cm[r][j] , cm[r][i]
+                arr[i],arr[j] = arr[j],arr[i]
                 i += 1
                 j -= 1
+    
 
-        for i in range(n):
-            for j in range(n):
-                matrix[i][j] = cm[i][j]
+
+        i = 0
+        j = 0
+        while i < len(matrix) and j  < len(matrix[0]):
+            for r in range(i, len(matrix[0])):
+                matrix[r][j],matrix[j][r] = matrix[j][r],matrix[r][j]
+            i += 1
+            j += 1
+
+        for r in matrix:
+            rev(r)
+
+
         
+
