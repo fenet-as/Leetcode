@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/fenet-as/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/fenet-as/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/fenet-as/Leetcode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/fenet-as/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/fenet-as/Leetcode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
@@ -283,11 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/fenet-as/Leetcode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/fenet-as/Leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/fenet-as/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/fenet-as/Leetcode/tree/master/0946-validate-stack-sequences) |
