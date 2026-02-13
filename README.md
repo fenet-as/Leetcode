@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/fenet-as/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/fenet-as/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/fenet-as/Leetcode/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/fenet-as/Leetcode/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/fenet-as/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/fenet-as/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/fenet-as/Leetcode/tree/master/0735-asteroid-collision) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/fenet-as/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/fenet-as/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/fenet-as/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0661-image-smoother](https://github.com/fenet-as/Leetcode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/fenet-as/Leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
